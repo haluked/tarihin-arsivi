@@ -1,0 +1,12 @@
+======================================================================
+TARİHİN ARKA ODASI — 4X PARALEL SES RESTORASYON RAPORU
+======================================================================
+Tamamlanma Zamanı           : 2026-11-02 05:15:39
+İmza                        : Encoded & Restored by haluked (https://github.com/haluked)
+Toplam İncelenen Bölüm      : 143
+Sağ Kanalı Bozuk ([mono])   : 122 bölüm
+Zaten Dengeli Korunan       : 21 bölüm
+Hata Alan                   : 0
+Toplam İşlem Süresi         : 90.9 Dakika
+Hedef Klasör                : C:\Users\haluk\Desktop\projects\Drafts\tarihin-arsivi\arsiv_optimize
+======================================================================

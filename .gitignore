@@ -1,0 +1,20 @@
+# Medya ve İndirilen Ağır Dosyalar (GitHub 100MB sınırını aşmaması için)
+*.mkv
+*.webm
+*.mp4
+*.part
+*.aria2
+*.exe
+
+# İndirme Klasörleri
+/arsiv_optimize/
+/youtube indirilenler/
+
+# Geçici ve Çalışma Dosyaları
+~$*.xlsx
+~$*.docx
+__proc_*
+__temp_*
+*.log
+.system_generated/
+__pycache__/
