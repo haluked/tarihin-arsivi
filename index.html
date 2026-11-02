@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tarihin Arka Odası — Eksiksiz Bölüm Arşivi (2008 – 2015)</title>
-    <meta name="description" content="Tarihin Arka Odası programının (2008-2015) 354 bölümünün tamamını içeren, YouTube ve Web Arşivi (.webm) doğrudan oynatma bağlantılarına sahip interaktif arşiv kataloğu.">
+    <title>Tarihin Arka Odası — Eksiksiz Bölüm Arşivi (2008 – 2024)</title>
+    <meta name="description" content="Tarihin Arka Odası programının (355 bölüm) tamamını içeren, YouTube ve Web Arşivi (.webm) doğrudan oynatma bağlantılarına sahip interaktif arşiv kataloğu.">
     <style>
         :root {
             --bg-body: #f8fafc;
@@ -593,15 +593,15 @@
         <header>
             <div class="header-title">
                 <h1>🏛️ Tarihin Arka Odası — Eksiksiz Bölüm Arşivi</h1>
-                <p>Murat Bardakçı, Erhan Afyoncu, Pelin Batu & Nurhan Atasoy • Kanal 1 & Habertürk (2008 – 2015)</p>
+                <p>Murat Bardakçı, Erhan Afyoncu, Pelin Batu & Nurhan Atasoy • Kanal 1, Habertürk & TRT (2008 – 2024)</p>
             </div>
             <div class="header-stats">
                 <div class="stat-card">
-                    <div class="num">354</div>
+                    <div class="num">355</div>
                     <div class="lbl">Toplam Bölüm</div>
                 </div>
                 <div class="stat-card" style="border-color: rgba(239, 68, 68, 0.4);">
-                    <div class="num" style="color: #fca5a5;">195</div>
+                    <div class="num" style="color: #fca5a5;">196</div>
                     <div class="lbl">YouTube</div>
                 </div>
                 <div class="stat-card" style="border-color: rgba(34, 197, 94, 0.4);">
@@ -624,7 +624,7 @@
             <input type="text" id="searchInput" class="search-box" placeholder="🔍 Bölüm ara (konu, tarih, konuk, numara, not)...">
 
             <select id="yearSelect" class="select-filter">
-                <option value="ALL">Tüm Yıllar (2008 - 2015)</option>
+                <option value="ALL">Tüm Yıllar (2008 - 2024)</option>
                 <option value="2008">2008</option>
                 <option value="2009">2009</option>
                 <option value="2010">2010</option>
@@ -633,11 +633,14 @@
                 <option value="2013">2013</option>
                 <option value="2014">2014</option>
                 <option value="2015">2015</option>
+                <option value="2020">2020</option>
+                <option value="2021">2021</option>
+                <option value="2024">2024</option>
             </select>
 
             <div class="filter-btn-group">
-                <button class="btn-tab active" data-filter="ALL">Tümü (354)</button>
-                <button class="btn-tab" data-filter="yt">🔴 YouTube (195)</button>
+                <button class="btn-tab active" data-filter="ALL">Tümü (355)</button>
+                <button class="btn-tab" data-filter="yt">🔴 YouTube (196)</button>
                 <button class="btn-tab" data-filter="arch">🟢 Web Arşivi (144)</button>
                 <button class="btn-tab" data-filter="missing">⚪ Eksikler (15)</button>
             </div>
@@ -647,7 +650,7 @@
             </button>
 
             <div class="filter-counter" id="filterCounter">
-                Gösterilen: <strong>354</strong> / 354
+                Gösterilen: <strong>355</strong> / 355
             </div>
         </div>
 
@@ -4207,6 +4210,16 @@
     <td class="center cell-status"><span class="status-badge badge-yt">🔴 YouTube</span></td>
     <td class="cell-links"><div class="links-wrap"><a href="https://twitter.com/cb_kutuphane/status/1446165477567389703?lang=en" target="_blank" rel="noopener noreferrer" class="link-pill link-pill-yt">YouTube</a></div></td>
 </tr>
+<tr class="row-yt" id="row_355" data-no="355" data-year="2024" data-type="yt" data-search="355 27 temmuz 2024 fatih sultan mehmet sergisi yok trt 1 özel bölüm youtube">
+    <td class="center cell-actions"><a href="https://www.youtube.com/watch?v=cQoUn87-pLM" target="_blank" rel="noopener noreferrer" class="btn-play btn-yt" title="YouTube üzerinden izle">▶ YouTube</a></td>
+    <td class="center cell-no"><strong>355</strong></td>
+    <td class="cell-date">27 Temmuz 2024</td>
+    <td class="cell-topic">Fatih Sultan Mehmet sergisi</td>
+    <td class="cell-guest">Yok</td>
+    <td class="cell-note">TRT 1 Özel Bölüm</td>
+    <td class="center cell-status"><span class="status-badge badge-yt">🔴 YouTube</span></td>
+    <td class="cell-links"><div class="links-wrap"><a href="https://www.youtube.com/watch?v=cQoUn87-pLM" target="_blank" rel="noopener noreferrer" class="link-pill link-pill-yt">YouTube</a></div></td>
+</tr>
                 </tbody>
             </table>
         </div>
@@ -4220,7 +4233,6 @@
                 <button class="btn-modal-close" onclick="closePlayerModal()">&times;</button>
             </div>
             <div class="modal-body" id="modalMediaContainer">
-                <!-- Video or Iframe inserted dynamically -->
             </div>
             <div class="modal-footer">
                 <span id="modalFooterNote">Tarayıcı içi video oynatılıyor</span>
@@ -4277,19 +4289,16 @@
             counterEl.innerHTML = `Gösterilen: <strong>${visibleCount}</strong> / ${totalRows}`;
         }
 
-        // Search input
         document.getElementById('searchInput').addEventListener('input', (e) => {
             curSearch = e.target.value.trim().toLowerCase();
             applyFilter();
         });
 
-        // Year select
         document.getElementById('yearSelect').addEventListener('change', (e) => {
             curYear = e.target.value;
             applyFilter();
         });
 
-        // Filter tabs
         document.querySelectorAll('.btn-tab').forEach(btn => {
             btn.addEventListener('click', () => {
                 document.querySelectorAll('.btn-tab').forEach(b => b.classList.remove('active'));
@@ -4299,7 +4308,6 @@
             });
         });
 
-        // Toggle Missing Only
         function toggleMissingOnly() {
             missingOnly = !missingOnly;
             const btn = document.getElementById('btnToggleMissing');
@@ -4313,7 +4321,6 @@
             applyFilter();
         }
 
-        // Modal Video Player
         const modal = document.getElementById('videoModal');
         const modalContainer = document.getElementById('modalMediaContainer');
         const modalTitle = document.getElementById('modalTitle');

@@ -1,14 +1,14 @@
-# Tarihin Arka Odası - Bölüm Arşivi (2008-2015)
+# Tarihin Arka Odası - Bölüm Arşivi (2008-2024)
 
-Murat Bardakçı, Erhan Afyoncu, Pelin Batu ve Nurhan Atasoy'un sunduğu programın 354 bölümlük izleme ve arşiv dizini.
+Murat Bardakçı, Erhan Afyoncu, Pelin Batu ve Nurhan Atasoy'un sunduğu programın 355 bölümlük izleme ve arşiv dizini.
 
-**Özet:** Toplam 354 Bölüm | 195 YouTube | 144 Web Arşivi (.webm) | 15 Eksik | Erişilebilirlik: 95.8%
+**Özet:** Toplam 355 Bölüm | 196 YouTube | 144 Web Arşivi (.webm) | 15 Eksik | Erişilebilirlik: 95.8%
 
 - Web Paneli: [index.html](index.html) *(Canlı: [haluked.github.io/tarihin-arsivi](https://haluked.github.io/tarihin-arsivi/))*
 - Excel Dosyası: [Tarihin_Arka_Odasi_Tam_Arsiv.xlsx](Tarihin_Arka_Odasi_Tam_Arsiv.xlsx)
 - [Eksik Bölümler](#eksik-bölümler)
 
-**Yıllar:** [2008](#2008) | [2009](#2009) | [2010](#2010) | [2011](#2011) | [2012](#2012) | [2013](#2013) | [2014](#2014) | [2015](#2015) | [2020](#2020) | [2021](#2021)
+**Yıllar:** [2008](#2008) | [2009](#2009) | [2010](#2010) | [2011](#2011) | [2012](#2012) | [2013](#2013) | [2014](#2014) | [2015](#2015) | [2020](#2020) | [2021](#2021) | [2024](#2024)
 
 ---
 ## Eksik Bölümler
@@ -439,3 +439,9 @@ Arşivlerde veya YouTube'da henüz bulunamayan 15 bölüm:
 | No | Tarih | Konu | Konuk | İzle |
 | ---: | :--- | :--- | :--- | :--- |
 | 354 | 8 Ekim 2021 | eski eserler ve matbuat *(TRT yayını, link bulunamadı.)* | Yok | [YouTube](https://twitter.com/cb_kutuphane/status/1446165477567389703?lang=en) |
+
+### <a id="2024"></a>2024 (1 Bölüm)
+
+| No | Tarih | Konu | Konuk | İzle |
+| ---: | :--- | :--- | :--- | :--- |
+| 355 | 27 Temmuz 2024 | Fatih Sultan Mehmet sergisi *(TRT 1 Özel Bölüm)* | Yok | [YouTube](https://www.youtube.com/watch?v=cQoUn87-pLM) |
