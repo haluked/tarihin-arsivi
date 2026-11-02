@@ -2,7 +2,7 @@
 
 Murat Bardakçı, Erhan Afyoncu, Pelin Batu ve Nurhan Atasoy'un sunduğu programın 355 bölümlük izleme ve arşiv dizini.
 
-**Özet:** Toplam 355 Bölüm | 196 YouTube | 144 Web Arşivi (.webm) | 15 Eksik | Erişilebilirlik: 95.8%
+**Özet:** Toplam 355 Bölüm | 197 YouTube | 143 Web Arşivi (.webm) | 15 Eksik | Erişilebilirlik: 95.8%
 
 - Web Paneli: [index.html](index.html) *(Canlı: [haluked.github.io/tarihin-arsivi](https://haluked.github.io/tarihin-arsivi/))*
 - Excel Dosyası: [Tarihin_Arka_Odasi_Tam_Arsiv.xlsx](Tarihin_Arka_Odasi_Tam_Arsiv.xlsx)
@@ -317,7 +317,7 @@ Arşivlerde veya YouTube'da henüz bulunamayan 15 bölüm:
 | 250 | 19 Ekim 2013 | Türk müziği | Süheyla Altmışdört | [Arşiv (.webm)](https://tube.archivarix.net/api/videos/uEsXM9H67zE/file) |
 | 251 | 26 Ekim 2013 | Osmanlı tarihi | Tim Stanley | [Arşiv (.webm)](https://tube.archivarix.net/api/videos/bNqHpOODq4w/file) |
 | 252 | 2 Kasım 2013 | Osmanlı döneminin İstanbul projeleri | Vahdettin Engin | [Arşiv (.webm)](https://tube.archivarix.net/api/videos/HnAtz2rL-5w/file) |
-| 253 | 9 Kasım 2013 | Atatürk'ün cenaze törenleri | Ali Güler | [Arşiv (.webm)](https://tube.archivarix.net/api/videos/o3EO2LyU-yU/file) |
+| 253 | 9 Kasım 2013 | Atatürk'ün cenaze törenleri | Ali Güler | [YouTube](https://www.youtube.com/watch?v=1SwGnlIVqds) · [Arşiv (.webm)](https://tube.archivarix.net/api/videos/o3EO2LyU-yU/file) |
 | 254 | 16 Kasım 2013 | Sultan Vahideddin, hilafetin kaldırılması | İlber Ortaylı | [Arşiv (.webm)](https://tube.archivarix.net/api/videos/_OaFleQMHe4/file) |
 | 255 | 23 Kasım 2013 | Ayasofya | Yusuf Halaçoğlu | [Arşiv (.webm)](https://tube.archivarix.net/api/videos/KvR9q_Bbssk/file) |
 | 256 | 30 Kasım 2013 | Konu Belirtilmedi | Altan Öymen | [Arşiv (.webm)](https://tube.archivarix.net/api/videos/VRV_xmTv-OY/file) |
