@@ -10,6 +10,9 @@
 /arsiv_optimize/
 /youtube indirilenler/
 
+# Yerel Geliştirme Araçları ve Taslaklar (Sadece yerelde saklanır)
+/_yerel_araclar/
+
 # Geçici ve Çalışma Dosyaları
 ~$*.xlsx
 ~$*.docx
