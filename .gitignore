@@ -16,6 +16,7 @@
 # Geçici ve Çalışma Dosyaları
 ~$*.xlsx
 ~$*.docx
+*_temp.xlsx
 __proc_*
 __temp_*
 *.log

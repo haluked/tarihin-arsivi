@@ -2,18 +2,18 @@
 
 Murat Bardakçı, Erhan Afyoncu, Pelin Batu ve Nurhan Atasoy'un sunduğu programın 355 bölümlük izleme ve arşiv dizini.
 
-**Özet:** Toplam 355 Bölüm | 197 YouTube | 143 Web Arşivi (.webm) | 15 Eksik | Erişilebilirlik: 95.8%
+**Özet:** Toplam 355 Bölüm | 197 YouTube | 144 Web Arşivi (.webm) | 14 Eksik | Erişilebilirlik: 96.1%
 
 - Web Paneli: [index.html](index.html) *(Canlı: [haluked.github.io/tarihin-arsivi](https://haluked.github.io/tarihin-arsivi/))*
 - Excel Dosyası: [Tarihin_Arka_Odasi_Tam_Arsiv.xlsx](Tarihin_Arka_Odasi_Tam_Arsiv.xlsx)
-- [Eksik Bölümler](#eksik-bölümler)
+- [Eksik Bölümler (14 Bölüm)](#eksik-bölümler)
 
 **Yıllar:** [2008](#2008) | [2009](#2009) | [2010](#2010) | [2011](#2011) | [2012](#2012) | [2013](#2013) | [2014](#2014) | [2015](#2015) | [2020](#2020) | [2021](#2021) | [2024](#2024)
 
 ---
 ## Eksik Bölümler
 
-Arşivlerde veya YouTube'da henüz bulunamayan 15 bölüm:
+Arşivlerde veya YouTube'da henüz bulunamayan 14 bölüm:
 
 | No | Tarih | Konu | Konuk | Not |
 | ---: | :--- | :--- | :--- | :--- |
@@ -28,7 +28,6 @@ Arşivlerde veya YouTube'da henüz bulunamayan 15 bölüm:
 | 297 | 13 Eylül 2014 | Konu Belirtilmedi | Mehmet Ali Öz | - |
 | 298 | 20 Eylül 2014 | Teşkilatı Mahsusa nedir? | Ahmet Tetik, Nurhan Atasoy | - |
 | 304 | 1 Kasım 2014 | 1. Dünya savaşına girişi, savaş öncesi Almanya ile ilişkiler | Mustafa Çolak | - |
-| 308 | 29 Kasım 2014 | Osmanlı tarihi | Tufan Gündüz | - |
 | 332 | 16 Mayıs 2015 | Sultan İbrahim'in kişiliği ve dönemi | Yok | - |
 | 352 | 29 Haziran 2020 | Millet Kütüphanesi ve eski eserler | Yok | TRT yayını, link bulunamadı. |
 | 353 | 21 Kasım 2020 | Kurtuluş Savaşı | Yok | TRT yayını, link bulunamadı. |
@@ -377,7 +376,7 @@ Arşivlerde veya YouTube'da henüz bulunamayan 15 bölüm:
 | 305 | 8 Kasım 2014 | Konu Belirtilmedi | Ali Güler | [Arşiv (.webm)](https://tube.archivarix.net/api/videos/XA3YywGKrkI/file) |
 | 306 | 15 Kasım 2014 | saltanatın kaldırılması | Vahdettin Engin | [Arşiv (.webm)](https://tube.archivarix.net/api/videos/RzmcOcBIj-I/file) |
 | 307 | 22 Kasım 2014 | Turancılık | Biro Andras Zsolt | [Arşiv (.webm)](https://tube.archivarix.net/api/videos/DGcUYjHEGJ8/file) |
-| 308 | 29 Kasım 2014 | Osmanlı tarihi | Tufan Gündüz | - |
+| 308 | 29 Kasım 2014 | Osmanlı tarihi | Tufan Gündüz | [Arşiv (.webm)](https://web.archive.org/web/20250226213057oe_/http://wayback-fakeurl.archive.org/yt/lukQtGNmEMo) |
 | 309 | 6 Aralık 2014 | Konu Belirtilmedi | Tufan Gündüz | [Arşiv (.webm)](https://tube.archivarix.net/api/videos/TD20RvIISEo/file) |
 | 310 | 13 Aralık 2014 | Konu Belirtilmedi | İlber Ortaylı | [Arşiv (.webm)](https://tube.archivarix.net/api/videos/ye1GqjNKUXA/file) |
 | 311 | 20 Aralık 2014 | Konu Belirtilmedi | Cemalettin Taşkıran | [Arşiv (.webm)](https://tube.archivarix.net/api/videos/hKjfa70voYQ/file) |
