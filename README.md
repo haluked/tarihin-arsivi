@@ -1,6 +1,18 @@
 # Tarihin Arka Odası - Bölüm Arşivi (2008-2024)
+Ümit Duran'ın hazırladığı kaynak sayesinde, programların yayınlanma tarihi, konuk bilgisi vs. gibi bilgileri elde ettim.
+Ancak verilen programların hepsi YouTube'dan kaldırılmış. Ben de program bilgilerini kullanaraktan YouTube'daki bütün Tarihin Arka Odası'na ait şu anda güncel olarak izlenebilen programları taradım.https://www.youtube.com/@tarihinarkaodasitv https://www.youtube.com/@HTBilimTarihFelsefe https://www.youtube.com/@haberturktv kanallarında bulabildiğim bütün yayınları eski videolarla eşleştirdim ve yeni güncel linkler ile değiştirdim. Daha bu kanallarda yayınlanmayan ama daha önce yayınlanmış full bölümleri ise YouTube'dan bulamadığım için saatler süren arşiv taramaları sonucunda şu ana kadar yayınlanmış 355 bölümün 288 tanesini Internet Archive sitesinden buldum. YouTube'da izlenebilenlere eğer gelecekte kaldırılırsa diye alternatif olarak bu kaynakları da ekledim; ardından şu an YouTube'da hiçbir yerde bulunmayan bölümlerin arşiv kayıtlarını da ekledim, artık arşivden seyredebilirsiniz. Daha sonra şu anda yeniden yayınlanmış YouTube bölümlerini de Internet Archive ve GhostArchive'dan arşivlenmesi için istek oluşturdum. Daha sonrasında eski videolar ile yenilerini karşılaştırınca bazı bölümlerde tutarsızlık olduğunu fark ettim; örneğin 24 Temmuz 2010 Cumartesi gecesi yayınlanan 8.30 saatlik bölümün şu anda YouTube kanalında sadece 7 saat olarak yayınlanıyor. Bu nedenle arşivden orijinalini bulabildiğim eski yayınların 284 programı + YouTube'da hâlâ orijinali bulunan 343 programı indirdim (~253 GB). Bu işlem Internet Archive rate limitleri ile yaklaşık 64 saatimi alacaktı ama birkaç script yazaraktan aria2c ile IP aşırtması ile 8 paralel hattan çekerek 9 saatte indirmeyi tamamladım. Daha sonrasında bunlar eski yayıncılık formatından çekildiği için çoğunun sesinde hata vardı, sadece sol tarafın sesi geliyordu ve desibel değerleri normalize edilmemişti. Bunları ffprobe ve ffmpeg ile uzun bir analiz ile ses seviyelerini düzelttim ve mono ses olarak düzelttim. Düzeltilen ses kodeklerini daha sonrasında opus ~160 kbps civarıydı, bunları daha da optimize etmek için grafik kartı hızlandırıcı ile 24 kbps insan kulağının ayırt edemeyeceği seviyeye compress ettim ve bütün programların sesi orijinalinden bile daha kaliteli oldu. Bu işlem 980HX işlemci ile 16 işlemci saati aldı. Toplam dosya boyutunu daha iyi bir ses ile ~198 GB'a düşürmeyi başardım. Daha sonra ise görüntü kalitesini analiz ettim. Neredeyse bütün videolar VP9 ile arşivlenmişti. 1.231 saatlik toplam görüntü akışını ise crf34 ile (biliyorum normalde biraz fazla ama zaten yayın kalitesi kötü olduğu için SSIM değeri 0.9561 kaldı yani gözle ayırt edilemez) H.265'e dönüştürüldü. Bu işlem 3 paralel işçi ile 60 saat sürdü (bu işlem hâlâ bitmiş değil ama %99 ihtimalle bu değere yakın süreceğini hesapladım 10 FPS ile) ve ~77.5 GB'a düşürüldü. Lokal olarak saklanıyor hepsi. Soğuk depolama için ise ikinci el 250 GB'lık iki hard diske yedekledim ve antistatik poşetiyle dolabıma kaldırdım
 
-Murat Bardakçı, Erhan Afyoncu, Pelin Batu ve Nurhan Atasoy'un sunduğu programın 355 bölümlük izleme ve arşiv dizini.
+ortalama tahmini bitrate (demolardan elde edilen)
+| yıl | çözünürlük & format | orijinal boyut (10s) | crf 34 boyut (10s) | video bitrate | ssim skoru | tasarruf |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **2008** | 450x360 (4:3 tüplü tv) | 522 kb | 204 kb | 90.3 kbps | 0.9524 | %60.9 |
+| **2009** | 640x480 (4:3 stüdyo) | 688 kb | 380 kb | 195.2 kbps | 0.9613 | %44.6 |
+| **2010** | 640x480 (4:3 stüdyo) | 528 kb | 141 kb | 63.9 kbps | 0.9590 | %73.3 |
+| **2011** | 640x480 (4:3 stüdyo) | 522 kb | 142 kb | 58.9 kbps | 0.9603 | %72.7 |
+| **2012** | 640x480 (yeni ışıklandırma) | 1.156 kb | 272 kb | 131.6 kbps | 0.9583 | %76.4 |
+| **2013** | 640x480 (4:3 stüdyo) | 1.007 kb | 275 kb | 132.9 kbps | 0.9661 | %72.7 |
+| **2014** | 854x480 (16:9 geniş ekran) | 940 kb | 227 kb | 126.2 kbps | 0.9676 | %75.9 |
+| **2015** | 854x480 (16:9 geniş ekran) | 1.213 kb | 269 kb | 129.7 kbps | 0.9568 | %77.8 |
 
 **Özet:** Toplam 355 Bölüm | 198 YouTube | 284 Web Arşivi (.webm) | 12 Eksik | Erişilebilirlik: 96.6%
 
@@ -14,7 +26,7 @@ Murat Bardakçı, Erhan Afyoncu, Pelin Batu ve Nurhan Atasoy'un sunduğu program
 ---
 ## Eksik Bölümler
 
-Arşivlerde veya YouTube'da henüz bulunamayan 12 bölüm:
+Arşivlerde veya YouTube'da henüz bulunamayan 12 bölüm (Eğer kendi arşivinizde varsa iletişime geçebilir veya pull request açabilirsiniz):
 
 | No | Tarih | Konu | Konuk | Not |
 | ---: | :--- | :--- | :--- | :--- |
