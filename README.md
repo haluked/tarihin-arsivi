@@ -5,6 +5,7 @@ Murat Bardakçı, Erhan Afyoncu, Pelin Batu ve Nurhan Atasoy'un sunduğu program
 **Özet:** Toplam 355 Bölüm | 198 YouTube | 284 Web Arşivi (.webm) | 12 Eksik | Erişilebilirlik: 96.6%
 
 - Web Paneli: [index.html](index.html) *(Canlı: [haluked.github.io/tarihin-arsivi](https://haluked.github.io/tarihin-arsivi/))*
+- CSV Veri Dosyası: [Tarihin_Arka_Odasi_Tam_Arsiv.csv](Tarihin_Arka_Odasi_Tam_Arsiv.csv)
 - Excel Dosyası: [Tarihin_Arka_Odasi_Tam_Arsiv.xlsx](Tarihin_Arka_Odasi_Tam_Arsiv.xlsx)
 - [Eksik Bölümler (12 Bölüm)](#eksik-bölümler)
 
