@@ -2,32 +2,31 @@
 
 Murat Bardakçı, Erhan Afyoncu, Pelin Batu ve Nurhan Atasoy'un sunduğu programın 355 bölümlük izleme ve arşiv dizini.
 
-**Özet:** Toplam 355 Bölüm | 198 YouTube | 283 Web Arşivi (.webm) | 13 Eksik | Erişilebilirlik: 96.3%
+**Özet:** Toplam 355 Bölüm | 198 YouTube | 284 Web Arşivi (.webm) | 12 Eksik | Erişilebilirlik: 96.6%
 
 - Web Paneli: [index.html](index.html) *(Canlı: [haluked.github.io/tarihin-arsivi](https://haluked.github.io/tarihin-arsivi/))*
 - Excel Dosyası: [Tarihin_Arka_Odasi_Tam_Arsiv.xlsx](Tarihin_Arka_Odasi_Tam_Arsiv.xlsx)
-- [Eksik Bölümler (13 Bölüm)](#eksik-bölümler)
+- [Eksik Bölümler (12 Bölüm)](#eksik-bölümler)
 
 **Yıllar:** [2008](#2008) | [2009](#2009) | [2010](#2010) | [2011](#2011) | [2012](#2012) | [2013](#2013) | [2014](#2014) | [2015](#2015) | [2020](#2020) | [2021](#2021) | [2024](#2024)
 
 ---
 ## Eksik Bölümler
 
-Arşivlerde veya YouTube'da henüz bulunamayan 13 bölüm:
+Arşivlerde veya YouTube'da henüz bulunamayan 12 bölüm:
 
 | No | Tarih | Konu | Konuk | Not |
 | ---: | :--- | :--- | :--- | :--- |
 | 126 | 30 Ekim 2010 | ??? | ??? | Yayına dair herhangi bir iz bulunamadı. |
 | 168 | 17 Mart 2012 | XXX | Yok | - |
-| 183 | 30 Haziran 2012 | Suriye olayları | İlber Ortaylı | - |
-| 206 | 15 Aralık 2012 | Kanuni Sultan Süleyman | Turkis Noyan | - |
-| 243 | 31 Ağustos 2013 | Türkiye coğrafyası | Cemallettin Şahin | - |
-| 249 | 12 Ekim 2013 | Osmanlı'da reform | Vahdettin Engin | - |
-| 282 | 31 Mayıs 2014 | Türk tarihi | Timur Kocaoğlu | - |
-| 297 | 13 Eylül 2014 | Konu Belirtilmedi | Mehmet Ali Öz | - |
-| 298 | 20 Eylül 2014 | Teşkilatı Mahsusa nedir? | Ahmet Tetik, Nurhan Atasoy | - |
-| 304 | 1 Kasım 2014 | 1. Dünya savaşına girişi, savaş öncesi Almanya ile ilişkiler | Mustafa Çolak | - |
-| 332 | 16 Mayıs 2015 | Sultan İbrahim'in kişiliği ve dönemi | Yok | - |
+| 183 | 30 Haziran 2012 | Suriye olayları | İlber Ortaylı | [Eski YT Linki](https://www.youtube.com/watch?v=3EHHnN_16tI) |
+| 206 | 15 Aralık 2012 | Kanuni Sultan Süleyman | Turkis Noyan | [Eski YT Linki](https://www.youtube.com/watch?v=0sq7tV_xMCc) |
+| 243 | 31 Ağustos 2013 | Türkiye coğrafyası | Cemallettin Şahin | [Eski YT Linki](https://www.youtube.com/watch?v=QMJhZiqGl9c) |
+| 249 | 12 Ekim 2013 | Osmanlı'da reform | Vahdettin Engin | [Eski YT Linki](https://www.youtube.com/watch?v=e0SylPGgfLs) |
+| 297 | 13 Eylül 2014 | Konu Belirtilmedi | Mehmet Ali Öz | [Eski YT Linki](https://www.youtube.com/watch?v=2y2bAWV3oY4) |
+| 298 | 20 Eylül 2014 | Teşkilatı Mahsusa nedir? | Ahmet Tetik, Nurhan Atasoy | [Eski YT Linki](https://www.youtube.com/watch?v=-u1PViFKkIE) |
+| 304 | 1 Kasım 2014 | 1. Dünya savaşına girişi, savaş öncesi Almanya ile ilişkiler | Mustafa Çolak | [Eski YT Linki](https://www.youtube.com/watch?v=hEDVI47bRpQ) |
+| 332 | 16 Mayıs 2015 | Sultan İbrahim'in kişiliği ve dönemi | Yok | [Eski YT Linki](https://www.youtube.com/watch?v=O4R_5qdC83M) |
 | 352 | 29 Haziran 2020 | Millet Kütüphanesi ve eski eserler | Yok | TRT yayını, link bulunamadı. |
 | 353 | 21 Kasım 2020 | Kurtuluş Savaşı | Yok | TRT yayını, link bulunamadı. |
 
@@ -240,7 +239,7 @@ Arşivlerde veya YouTube'da henüz bulunamayan 13 bölüm:
 | 180 | 9 Haziran 2012 | Haçlı seferleri ve okçuluk | Altan Çetin | [YouTube](https://www.youtube.com/watch?v=wHJjqVK1nz0) | [[Eski Yayın] IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/J0qh4bq4U0s) · [[Eski Yayın] Archivarix](https://tube.archivarix.net/api/videos/J0qh4bq4U0s/file) · [Eski YT Linki](https://www.youtube.com/watch?v=J0qh4bq4U0s) |
 | 181 | 16 Haziran 2012 | Kudüs'ün tarihi | İlber Ortaylı, Mustafa Küçükaşçı | [YouTube](https://www.youtube.com/watch?v=CImnEnTJPbw) | [[Eski Yayın] IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/C29sZcL6EBk) · [[Eski Yayın] Archivarix](https://tube.archivarix.net/api/videos/C29sZcL6EBk/file) · [Eski YT Linki](https://www.youtube.com/watch?v=C29sZcL6EBk) |
 | 182 | 23 Haziran 2012 | Osmanlı'da sanat ve eğlence | Hilâl Kazan, Tuğba Durmuş | [YouTube](https://www.youtube.com/watch?v=UUd2WiFyzus) | [[Eski Yayın] IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/tih6HAm_cyY) · [[Eski Yayın] Archivarix](https://tube.archivarix.net/api/videos/tih6HAm_cyY/file) · [Eski YT Linki](https://www.youtube.com/watch?v=tih6HAm_cyY) |
-| 183 | 30 Haziran 2012 | Suriye olayları | İlber Ortaylı | - | — |
+| 183 | 30 Haziran 2012 | Suriye olayları | İlber Ortaylı | - | [Eski YT Linki](https://www.youtube.com/watch?v=3EHHnN_16tI) |
 | 184 | 7 Temmuz 2012 | Türk ve İslam bilim tarihi | Mustafa Kaçar, Mehmet Karaca | [YouTube](https://www.youtube.com/watch?v=Hg7IS5zw6Hw) | [[Eski Yayın] IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/EqRXL_ethVo) · [[Eski Yayın] Archivarix](https://tube.archivarix.net/api/videos/EqRXL_ethVo/file) · [Eski YT Linki](https://www.youtube.com/watch?v=EqRXL_ethVo) |
 | 185 | 14 Temmuz 2012 | Selçuklu İmparatorluğu, Anadolu’daki aşiretler ve Rumeli’ye göçler | Tufan Gündüz | [YouTube](https://www.youtube.com/watch?v=mIvmPcNZ-lM) | [[Eski Yayın] IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/nZqmT_iaczg) · [[Eski Yayın] Archivarix](https://tube.archivarix.net/api/videos/nZqmT_iaczg/file) · [Eski YT Linki](https://www.youtube.com/watch?v=nZqmT_iaczg) |
 | 186 | 21 Temmuz 2012 | ramazanın tarihi, kültürü ve musikisi | Mustafa Küçükaşçı | [YouTube](https://www.youtube.com/watch?v=RYQS1VbkNgk) | [[Eski Yayın] IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/TXazdaB3M-s) · [[Eski Yayın] Archivarix](https://tube.archivarix.net/api/videos/TXazdaB3M-s/file) · [Eski YT Linki](https://www.youtube.com/watch?v=TXazdaB3M-s) |
@@ -263,7 +262,7 @@ Arşivlerde veya YouTube'da henüz bulunamayan 13 bölüm:
 | 203 | 24 Kasım 2012 | musiki | Erol Sayan, Paki Ökten | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/kGnPLZFyqUM) | [Archivarix](https://tube.archivarix.net/api/videos/kGnPLZFyqUM/file) · [Eski YT Linki](https://www.youtube.com/watch?v=kGnPLZFyqUM) |
 | 204 | 1 Aralık 2012 | Selçuklular | Osman Özgüdenli, Osman Mayatepek | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/h1GRoZZIbyU) | [Archivarix](https://tube.archivarix.net/api/videos/h1GRoZZIbyU/file) · [Eski YT Linki](https://www.youtube.com/watch?v=h1GRoZZIbyU) |
 | 205 | 8 Aralık 2012 | Konu Belirtilmedi *(Nurhan Atasoy sunucu olarak ilk program)* | İlber Ortaylı | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/iGijgiHAJaU) | [Archivarix](https://tube.archivarix.net/api/videos/iGijgiHAJaU/file) · [Eski YT Linki](https://www.youtube.com/watch?v=iGijgiHAJaU) |
-| 206 | 15 Aralık 2012 | Kanuni Sultan Süleyman | Turkis Noyan | - | — |
+| 206 | 15 Aralık 2012 | Kanuni Sultan Süleyman | Turkis Noyan | - | [Eski YT Linki](https://www.youtube.com/watch?v=0sq7tV_xMCc) |
 | 207 | 22 Aralık 2012 | II. Bayezid | Yok | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/_HlWTYul1Bc) | [Archivarix](https://tube.archivarix.net/api/videos/_HlWTYul1Bc/file) · [Eski YT Linki](https://www.youtube.com/watch?v=_HlWTYul1Bc) |
 | 208 | 29 Aralık 2012 | Arabistan'da putlar | Mustafa Küçükaşçı | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/JAKp0xhgrWc) | [Archivarix](https://tube.archivarix.net/api/videos/JAKp0xhgrWc/file) · [Eski YT Linki](https://www.youtube.com/watch?v=JAKp0xhgrWc) |
 
@@ -305,13 +304,13 @@ Arşivlerde veya YouTube'da henüz bulunamayan 13 bölüm:
 | 240 | 10 Ağustos 2013 | Orta Asya ve Kurtuluş Savaşı | Timur Kocaoğlu | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/uLt1Ga4q8vY) | [Archivarix](https://tube.archivarix.net/api/videos/uLt1Ga4q8vY/file) · [Eski YT Linki](https://www.youtube.com/watch?v=uLt1Ga4q8vY) |
 | 241 | 17 Ağustos 2013 | Mısır ve Osmanlı | İlber Ortaylı | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/e14ew29g8HI) | [Archivarix](https://tube.archivarix.net/api/videos/e14ew29g8HI/file) · [Eski YT Linki](https://www.youtube.com/watch?v=e14ew29g8HI&list=PLp7xAPGtuZEX8XY-1hmxznilwu8BeMEA-&index=591) |
 | 242 | 24 Ağustos 2013 | Malazgirt Savaşı ve Selçuklu | Altan Çetin | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/zBHPb6Pj2yE) | [Archivarix](https://tube.archivarix.net/api/videos/zBHPb6Pj2yE/file) · [Eski YT Linki](https://www.youtube.com/watch?v=zBHPb6Pj2yE) |
-| 243 | 31 Ağustos 2013 | Türkiye coğrafyası | Cemallettin Şahin | - | — |
+| 243 | 31 Ağustos 2013 | Türkiye coğrafyası | Cemallettin Şahin | - | [Eski YT Linki](https://www.youtube.com/watch?v=QMJhZiqGl9c) |
 | 244 | 7 Eylül 2013 | olimpiyat tarihi | Sezgin Demircioğlu | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/wP-coMfk3kw) | [Archivarix](https://tube.archivarix.net/api/videos/wP-coMfk3kw/file) · [Eski YT Linki](https://www.youtube.com/watch?v=wP-coMfk3kw) |
 | 245 | 14 Eylül 2013 | Konu Belirtilmedi | Cüneyt Kanat | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/qx1jcZPLNko) | [Archivarix](https://tube.archivarix.net/api/videos/qx1jcZPLNko/file) · [Eski YT Linki](https://www.youtube.com/watch?v=qx1jcZPLNko) |
 | 246 | 21 Eylül 2013 | Atatürk'ün şeceresi, Sultan Süleyman'ın kalbi | Ali Güler | [YouTube](https://www.youtube.com/watch?v=XXNdj1xtK4k) | — |
 | 247 | 28 Eylül 2013 | Sultan Süleyman ve Macaristan | Yok | [YouTube](https://www.youtube.com/watch?v=ADfhzHTU4q0) | — |
 | 248 | 5 Ekim 2013 | Osmanlı'da reform | Vahdettin Engin | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/nCSzxlaB3iw) | [Archivarix](https://tube.archivarix.net/api/videos/nCSzxlaB3iw/file) · [Eski YT Linki](https://www.youtube.com/watch?v=nCSzxlaB3iw) |
-| 249 | 12 Ekim 2013 | Osmanlı'da reform | Vahdettin Engin | - | — |
+| 249 | 12 Ekim 2013 | Osmanlı'da reform | Vahdettin Engin | - | [Eski YT Linki](https://www.youtube.com/watch?v=e0SylPGgfLs) |
 | 250 | 19 Ekim 2013 | Türk müziği | Süheyla Altmışdört | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/uEsXM9H67zE) | [Archivarix](https://tube.archivarix.net/api/videos/uEsXM9H67zE/file) · [Eski YT Linki](https://www.youtube.com/watch?v=uEsXM9H67zE&list=PLp7xAPGtuZEX8XY-1hmxznilwu8BeMEA-&index=595) |
 | 251 | 26 Ekim 2013 | Osmanlı tarihi | Tim Stanley | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/bNqHpOODq4w) | [Archivarix](https://tube.archivarix.net/api/videos/bNqHpOODq4w/file) · [Eski YT Linki](https://www.youtube.com/watch?v=bNqHpOODq4w&list=PLp7xAPGtuZEX8XY-1hmxznilwu8BeMEA-&index=596) |
 | 252 | 2 Kasım 2013 | Osmanlı döneminin İstanbul projeleri | Vahdettin Engin | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/HnAtz2rL-5w) | [Archivarix](https://tube.archivarix.net/api/videos/HnAtz2rL-5w/file) · [Eski YT Linki](https://www.youtube.com/watch?v=HnAtz2rL-5w&list=PLp7xAPGtuZEX8XY-1hmxznilwu8BeMEA-&index=597) |
@@ -349,7 +348,6 @@ Arşivlerde veya YouTube'da henüz bulunamayan 13 bölüm:
 | 279 | 10 Mayıs 2014 | geleneksel okçuluk | Adnan Mehel, Melike Kazaz | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/-Q_3hSRiYbE) | [Archivarix](https://tube.archivarix.net/api/videos/-Q_3hSRiYbE/file) · [Eski YT Linki](https://www.youtube.com/watch?v=-Q_3hSRiYbE&list=PLp7xAPGtuZEX8XY-1hmxznilwu8BeMEA-&index=619) |
 | 280 | 17 Mayıs 2014 | yakın tarihten acı olaylar | Yok | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/C19mLnTbFhY) | [Archivarix](https://tube.archivarix.net/api/videos/C19mLnTbFhY/file) · [Eski YT Linki](https://www.youtube.com/watch?v=C19mLnTbFhY&list=PLp7xAPGtuZEX8XY-1hmxznilwu8BeMEA-&index=620) |
 | 281 | 24 Mayıs 2014 | Türk tarihi | Timur Kocaoğlu | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/uu-k3YEwDDk) | [Archivarix](https://tube.archivarix.net/api/videos/uu-k3YEwDDk/file) · [Eski YT Linki](https://www.youtube.com/watch?v=uu-k3YEwDDk&list=PLp7xAPGtuZEX8XY-1hmxznilwu8BeMEA-&index=621) |
-| 282 | 31 Mayıs 2014 | Türk tarihi | Timur Kocaoğlu | - | — |
 | 283 | 7 Haziran 2014 | ırkçılık, Turancılık | Necdet Özgelen | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/IL1mx8G4WHI) | [Archivarix](https://tube.archivarix.net/api/videos/IL1mx8G4WHI/file) · [Eski YT Linki](https://www.youtube.com/watch?v=IL1mx8G4WHI&list=PLp7xAPGtuZEX8XY-1hmxznilwu8BeMEA-&index=623) |
 | 284 | 14 Haziran 2014 | Konu Belirtilmedi | Cahit Kayra | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/L-vWwEXU5BE) | [Archivarix](https://tube.archivarix.net/api/videos/L-vWwEXU5BE/file) · [Eski YT Linki](https://www.youtube.com/watch?v=L-vWwEXU5BE&list=PLp7xAPGtuZEX8XY-1hmxznilwu8BeMEA-&index=624) |
 | 285 | 21 Haziran 2014 | Selefi akımlar | Yok | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/WLeDGML9rdM) | [Archivarix](https://tube.archivarix.net/api/videos/WLeDGML9rdM/file) · [Eski YT Linki](https://www.youtube.com/watch?v=WLeDGML9rdM&list=PLp7xAPGtuZEX8XY-1hmxznilwu8BeMEA-&index=625) |
@@ -364,14 +362,14 @@ Arşivlerde veya YouTube'da henüz bulunamayan 13 bölüm:
 | 294 | 23 Ağustos 2014 | Türk tarihinde hükümdarlık | Yok | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/zJGhrp_HQ_Q) | [Archivarix](https://tube.archivarix.net/api/videos/zJGhrp_HQ_Q/file) · [Eski YT Linki](https://www.youtube.com/watch?v=zJGhrp_HQ_Q) |
 | 295 | 30 Ağustos 2014 | 1. Dünya Savaşı ve Alman ilişkileri | Mustafa Çolak | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/_J6a5YUmRsY) | [Archivarix](https://tube.archivarix.net/api/videos/_J6a5YUmRsY/file) · [Eski YT Linki](https://www.youtube.com/watch?v=_J6a5YUmRsY) |
 | 296 | 6 Eylül 2014 | Konu Belirtilmedi | İlber Ortaylı | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/sGXpa09V_qw) | [Archivarix](https://tube.archivarix.net/api/videos/sGXpa09V_qw/file) · [Eski YT Linki](https://www.youtube.com/watch?v=sGXpa09V_qw) |
-| 297 | 13 Eylül 2014 | Konu Belirtilmedi | Mehmet Ali Öz | - | — |
-| 298 | 20 Eylül 2014 | Teşkilatı Mahsusa nedir? | Ahmet Tetik, Nurhan Atasoy | - | — |
+| 297 | 13 Eylül 2014 | Konu Belirtilmedi | Mehmet Ali Öz | - | [Eski YT Linki](https://www.youtube.com/watch?v=2y2bAWV3oY4) |
+| 298 | 20 Eylül 2014 | Teşkilatı Mahsusa nedir? | Ahmet Tetik, Nurhan Atasoy | - | [Eski YT Linki](https://www.youtube.com/watch?v=-u1PViFKkIE) |
 | 299 | 27 Eylül 2014 | Moğol ve Osmanlı kıyası *(Düşük kaliteli gayriresmi YT)* | Asım Şengör ve Celal Şengör | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/kLYfKFNZ65k) · [Archivarix](https://tube.archivarix.net/api/videos/kLYfKFNZ65k/file) · [YouTube (Düşük Kalite)](https://www.youtube.com/watch?v=FTcm3CXuH8E) |
 | 300 | 4 Ekim 2014 | Konu Belirtilmedi | Yok | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/K40uXrKO0xg) | [Archivarix](https://tube.archivarix.net/api/videos/K40uXrKO0xg/file) · [Eski YT Linki](https://www.youtube.com/watch?v=K40uXrKO0xg) |
 | 301 | 11 Ekim 2014 | Ortadoğu | Fatih Şeker | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/Eq38qFhReRo) | [Archivarix](https://tube.archivarix.net/api/videos/Eq38qFhReRo/file) · [Eski YT Linki](https://www.youtube.com/watch?v=Eq38qFhReRo) |
 | 302 | 18 Ekim 2014 | Çin tarihi | Giray Fidan | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/phJk7F6QKTA) | [Archivarix](https://tube.archivarix.net/api/videos/phJk7F6QKTA/file) · [Eski YT Linki](https://www.youtube.com/watch?v=phJk7F6QKTA) |
 | 303 | 25 Ekim 2014 | Eski Türk tarihi | Ahmet Bican Ercilasun | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/LPFw9ydd4dM) | [Archivarix](https://tube.archivarix.net/api/videos/LPFw9ydd4dM/file) · [Eski YT Linki](https://www.youtube.com/watch?v=LPFw9ydd4dM) |
-| 304 | 1 Kasım 2014 | 1. Dünya savaşına girişi, savaş öncesi Almanya ile ilişkiler | Mustafa Çolak | - | — |
+| 304 | 1 Kasım 2014 | 1. Dünya savaşına girişi, savaş öncesi Almanya ile ilişkiler | Mustafa Çolak | - | [Eski YT Linki](https://www.youtube.com/watch?v=hEDVI47bRpQ) |
 | 305 | 8 Kasım 2014 | Konu Belirtilmedi | Ali Güler | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/XA3YywGKrkI) | [Archivarix](https://tube.archivarix.net/api/videos/XA3YywGKrkI/file) · [Eski YT Linki](https://www.youtube.com/watch?v=XA3YywGKrkI) |
 | 306 | 15 Kasım 2014 | saltanatın kaldırılması | Vahdettin Engin | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/RzmcOcBIj-I) | [Archivarix](https://tube.archivarix.net/api/videos/RzmcOcBIj-I/file) · [Eski YT Linki](https://www.youtube.com/watch?v=RzmcOcBIj-I) |
 | 307 | 22 Kasım 2014 | Turancılık | Biro Andras Zsolt | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/DGcUYjHEGJ8) | [Archivarix](https://tube.archivarix.net/api/videos/DGcUYjHEGJ8/file) · [Eski YT Linki](https://www.youtube.com/watch?v=DGcUYjHEGJ8) |
@@ -404,7 +402,7 @@ Arşivlerde veya YouTube'da henüz bulunamayan 13 bölüm:
 | 329 | 25 Nisan 2015 | tehcir | İlyas Doğan | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/LUHCHIj3TkI) | [Archivarix](https://tube.archivarix.net/api/videos/LUHCHIj3TkI/file) · [Eski YT Linki](https://www.youtube.com/watch?v=LUHCHIj3TkI) |
 | 330 | 2 Mayıs 2015 | Lale Devri | Yok | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/QkJUfzAGDx4) | [Archivarix](https://tube.archivarix.net/api/videos/QkJUfzAGDx4/file) · [Eski YT Linki](https://www.youtube.com/watch?v=QkJUfzAGDx4) |
 | 331 | 9 Mayıs 2015 | Kut'ül Ammare Zaferi | Cemalettin Taşkıran | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/dC-K601TzkY) | [Archivarix](https://tube.archivarix.net/api/videos/dC-K601TzkY/file) · [Eski YT Linki](https://www.youtube.com/watch?v=dC-K601TzkY) |
-| 332 | 16 Mayıs 2015 | Sultan İbrahim'in kişiliği ve dönemi | Yok | - | — |
+| 332 | 16 Mayıs 2015 | Sultan İbrahim'in kişiliği ve dönemi | Yok | - | [Eski YT Linki](https://www.youtube.com/watch?v=O4R_5qdC83M) |
 | 333 | 23 Mayıs 2015 | Mustafa Kemal Paşa'nın Samsun'a gidişi | Yok | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/DKoqmTJxUWY) | [Archivarix](https://tube.archivarix.net/api/videos/DKoqmTJxUWY/file) · [Eski YT Linki](https://www.youtube.com/watch?v=DKoqmTJxUWY) |
 | 334 | 6 Haziran 2015 | musiki *(İnci Çayırlı'nın sunucu olarak ilk programı.)* | Yok | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/H15L78Ug4AI) | [Archivarix](https://tube.archivarix.net/api/videos/H15L78Ug4AI/file) · [Eski YT Linki](https://www.youtube.com/watch?v=H15L78Ug4AI) |
 | 335 | 13 Haziran 2015 | karışık | İlber Ortaylı | [IA (.webm)](https://web.archive.org/web/2oe_/http://wayback-fakeurl.archive.org/yt/JlPQ_wF94WY) | [Archivarix](https://tube.archivarix.net/api/videos/JlPQ_wF94WY/file) · [Eski YT Linki](https://www.youtube.com/watch?v=JlPQ_wF94WY) |
