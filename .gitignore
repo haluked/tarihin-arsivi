@@ -10,8 +10,15 @@
 /arsiv_optimize/
 /youtube indirilenler/
 
-# Yerel Geliştirme Araçları ve Taslaklar (Sadece yerelde saklanır)
+# Yerel Geliştirme Araçları, Büyük Veriler ve Raporlar (Sadece yerelde saklanır)
 /_yerel_araclar/
+/araclar/
+/veriler/
+/HaberturkTV_Videolar_Aciklamalari/
+/HT_Videolar_Aciklamalari/
+/Eksik_Bolumler_Excel/
+/raporlar/
+Tarihin_Arka_Odasi_Bulunan_Adaylar.xlsx
 
 # Geçici ve Çalışma Dosyaları
 ~$*.xlsx
@@ -22,3 +29,4 @@ __temp_*
 *.log
 .system_generated/
 __pycache__/
+/scripts/
